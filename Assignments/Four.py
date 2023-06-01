@@ -13,4 +13,4 @@ num = int(input("Enter the Number : "))
 if 99 < num < 1000:
     print("Yes, the given number is a 3-digit number")
 else:
-    print("Oops Sorry, Try Again...")
+    print("Oops Sorry, Try any 3-digits...")

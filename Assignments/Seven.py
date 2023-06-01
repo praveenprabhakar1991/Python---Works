@@ -1,12 +1,12 @@
 # WAP to print the least/small number is given two numbers?
 
-a = 49
+a = 499
 b = 50
 
 if a < b:
-    print("Yes, the small number is : ", a)
+    print(a)
 else:
-    print("No, it is not a least number ")
+    print(b)
 
 print ("***** You Can Try *****")
 
@@ -15,7 +15,5 @@ b = int(input("Enter Second Number : "))
 
 if a < b:
     print("Yes, the Least Number is : ", a)
-elif a > b:
-    print("Yes, the Least Number is : ", b)
 else:
-    print("Oops Sorry, Same Number not Accessed. Try Again...")
+    print("Yes, the Least Number is : ", b)
