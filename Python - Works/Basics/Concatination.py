@@ -1,7 +1,8 @@
 a = input("Enter First Number / Word :")
 b = input("Enter Second Number / Word :")
 
-add = a+b
-print (add)
-print (type(add))
-print (id(add))
+concat = a+b
+
+print (concat)
+print (type(concat))
+# print (id(concat))
