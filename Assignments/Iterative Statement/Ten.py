@@ -2,8 +2,11 @@
 
 print ("Here is the Multiplication table of 6 using a for loop.")
 
-i = 0
+# i = 0
 
-for numbers in range (6,61,6):
-    i = i + 1
-    print("6 *", i , "=", numbers)
+# for numbers in range (6,61,6):
+#     i = i + 1
+#     print ("6 *", i , "=", numbers)    
+
+for i in range (1,11):
+    print ("6 *", i , "=", i*6)
