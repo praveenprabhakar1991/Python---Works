@@ -5,7 +5,8 @@ print("***Addition***")
 sum = 0
 
 for add in list:
-    sum = sum + add
+    #sum = sum + add
+    sum += add
     print(sum) 
  
 print("***Subtraction***")
@@ -13,5 +14,6 @@ print("***Subtraction***")
 minus = 0
      
 for sub in list:
-    minus = minus - sub
+    #minus = minus - sub
+    minus -= sub
     print(minus)

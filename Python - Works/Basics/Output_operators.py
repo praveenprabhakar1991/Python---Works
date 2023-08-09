@@ -7,8 +7,7 @@ sum = 0
 sub = 0
 multi = 1
 
-list = argv[1:3
-            ]                                     #Slicing  Process
+list = argv[1:3]                                     #Slicing  Process
 
 print(argv)
 print (list)

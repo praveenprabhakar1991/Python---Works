@@ -6,23 +6,10 @@ b = input("Enter Second Number:")
 a = int(input("Enter First Number:"))
 b = int(input("Enter Second Number:"))
 
-sum = a+b                                   # Addition
-print (sum)
-
-sub = a-b                                   # Subtraction
-print (sub)
-
-multi = a*b                                 # Multiplication
-print (multi)
-
-div = a/b                                   # Division
-print (div)
-
-mod = a%b                                   # Modulus
-print (mod)
-
-expo = a**b                                 # Exponentiation
-print (expo)
-
-floor_div = a//b                            # Floor division
-print (floor_div)
+print("The value of", a, "+", b, "is    : ", a + b)         # Addition
+print("The value of", a, "-", b, "is    : ", a - b)         # Subtraction
+print("The value of", a, "*", b, "is    : ", a * b)         # Multiplication   
+print("The value of", a, "**", b, "is   : ", a ** b)        # Exponentiation
+print("The value of", a, "%", b, "is    : ", a % b)         # Modulus
+print("The value of", a, "/", b, "is    : ", a / b)         # Division
+print("The value of", a, "//", b, "is   : ", a // b)        # Floor Division

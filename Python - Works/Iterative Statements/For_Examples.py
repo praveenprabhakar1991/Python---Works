@@ -16,9 +16,16 @@ for i in num:
 print("*****************")
     
 for i in num:    
-    print (num*2)
+    print (num * 2)
 
 print("*****************")
 
 for i in num:
-    print (i*2)
+    print (i * 2)
+
+sum = 0
+
+for i in num:
+    #sum = sum + i
+    sum += i
+    print (sum)

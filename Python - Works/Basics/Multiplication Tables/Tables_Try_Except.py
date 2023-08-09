@@ -7,4 +7,4 @@ try:
         
 except:
     print ("Invalid Input!!!")
-    print ("Enter the Numbers only")
+    print ("Enter Numbers only")

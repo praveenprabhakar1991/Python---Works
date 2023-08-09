@@ -1,3 +1,5 @@
+# WAP to print for Division
+
 a = int(input("Enter First Number :"))
 b = int(input("Enter Second Number :"))
 

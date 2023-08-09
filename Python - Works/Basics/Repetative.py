@@ -1,3 +1,5 @@
+# WAP to print for Repetative
+
 a = (input("First Enter the Word :"))
 b = int(input("Second Enter the Number :"))
 

@@ -1,3 +1,5 @@
+# WAP to print for Concatination
+
 a = input("Enter First Number / Word :")
 b = input("Enter Second Number / Word :")
 

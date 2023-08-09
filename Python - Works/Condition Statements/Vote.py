@@ -2,7 +2,7 @@ a = int(input("Enter your Age : "))
 b = 18
 
 if (a >= b):
-    print ("You are Eligible to Vote")
+    print ("Yes, You are Matured to Vote")
 
 else:
-    print ("You Can't Vote, You are Still a Child")
+    print ("No, You are Not Enough Matured to Vote")

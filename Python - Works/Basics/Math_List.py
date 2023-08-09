@@ -1,3 +1,5 @@
+# WAP to print Math Operation
+
 import math
 # help(math)
 
@@ -13,9 +15,11 @@ from math import pow
 from math import floor
 from math import ceil """
 
+# from math import sqrt,pow,floor,ceil
+
 from math import *
 
 print(sqrt(4))
-print(pow(4,2))
+print(pow(4, 2))
 print(floor(9.8))
 print(ceil(9.8))
