@@ -7,9 +7,10 @@ for i in range(n):
         print('*', end = ' ')    
     print()
     
-print('\n*** You Can Try ***')
+print('\n*** You Can Try ***\n')
 
-user = int(input('Enter the Number : '))
+user = int(input('Enter any Number : '))
+print()
 
 for i in range(user):
     for j in range(user):
