@@ -45,7 +45,7 @@ while True:
     print("You Lose!")
     comp_wins += 1
 
-print (f"\nYour Score : {user_wins}")
+print (f"\nYour Score   : {user_wins}")
 print (f"Computer Score : {comp_wins}")
 print (f"Tie Score : {ties} ")
-print ("\n***Thanks for playing the game***")
+print ("\n***Thanks for playing the game***\n")
