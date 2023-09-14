@@ -1,7 +1,7 @@
 # WAP to print for Addition
 
-a = int(input("Enter First Number :"))
-b = int(input("Enter Second Number :"))
+a = int(input("Enter First Number : "))
+b = int(input("Enter Second Number : "))
 
 add = a+b
 
